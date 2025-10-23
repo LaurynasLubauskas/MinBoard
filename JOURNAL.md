@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **MinBoard**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/504).
-
-
 ## 10/14/2025 - Oct 14th 2025 First Journal, but close to finishing  
 
 I started this project Oct 8th. I already designed the keyboard in KiCad. I have the pcb and the schematics. It is a 3x3 keyboard that you can carry in your pocket **literally** and it uses the seeed xiao RP2040. This keyboard will be connected via USB-C.
@@ -23,5 +19,14 @@ I have decided on the switches that i will use the HMX YOGURT LINEAR SWITCH FACT
 > The PCB 3D![Screenshot 2025-10-14 at 19.25.45.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIyMywicHVyIjoiYmxvYl9pZCJ9fQ==--d9bd1c41c80041d1f2cea53c6b9744cc95d152fa/Screenshot%202025-10-14%20at%2019.25.45.png)
 
 
+  
+
+## 10/23/2025 - Oct 23rd 2025 Took a break.  
+
+I did a few things since my last journal 9 days ago. They weren't big changes so I didn't think it was worth writing a whole journal update about it. I started on the coding part, it is not easy, but I am managing it. Also since the last journal I updated a few things to the PCB. I added screw hole to the PCB. I'm still looking for a PCB manufacture in Europe so I wouldn't have to wait a long time and spend lots of money on shipping. And in my last journal, I said that I will do the case, but I gave the priority to the code, because I think it's more important.
+
+> The "new" PCB
+
+![Screenshot 2025-10-14 at 21.20.12.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg4MywicHVyIjoiYmxvYl9pZCJ9fQ==--b3ba821f9ce8cd0b9023ddb7c7ce6a8465ad34b9/Screenshot%202025-10-14%20at%2021.20.12.png)
   
 
