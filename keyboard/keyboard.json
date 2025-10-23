@@ -1,0 +1,41 @@
+{
+  "keyboard_name": "MinBoard",
+  "manufacturer": "Laurynas Lubauskas",
+  "maintainer": "LaurynasLubauskas",
+  "processor": "rp2040",
+  "bootloader": "rp2040",
+  "matrix_pins": {
+    "cols": ["D0", "D1", "D2"],
+    "rows": ["D3", "D4", "D5"]
+  },
+  "diode_direction": "COL2ROW",
+  "features": {
+    "bootmagic": true,
+    "mousekey": true,
+    "extrakey": true,
+    "nkro": true
+  },
+      "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+  "layouts": {
+    "LAYOUT_3x3": {
+      "layout": [
+        { "label": "K00", "x": 0, "y": 0 },
+        { "label": "K01", "x": 1, "y": 0 },
+        { "label": "K02", "x": 2, "y": 0 },
+        
+        { "label": "K10", "x": 0, "y": 1 },
+        { "label": "K11", "x": 1, "y": 1 },
+        { "label": "K12", "x": 2, "y": 1 },
+        
+        { "label": "K20", "x": 0, "y": 2 },
+        { "label": "K21", "x": 1, "y": 2 },
+        { "label": "K22", "x": 2, "y": 2 }
+      ]
+    }
+  }
+}
