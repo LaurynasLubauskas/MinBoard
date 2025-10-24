@@ -1,6 +1,7 @@
 # MinBoard
 
 * Keyboard Maintainer: [LaurynasLubauskas](https://github.com/LaurynasLubauskas)
+* BOM: BOM will be in the main readme page.
 
 ## Bootloader
 
