@@ -1,5 +1,5 @@
 # MCU type (microcontroller)
-MCU = rp2040
+MCU = RP2040
 
 # Bootloader used by the Seeed XIAO RP2040
 BOOTLOADER = rp2040
