@@ -39,3 +39,9 @@ If the RPI-RP2 drive doesn’t appear:
 	•	Use a data USB cable (not a charge-only cable).
   <br>
 	•	Try double-tapping reset faster (timing matters).
+
+***
+
+**!!!IMPORTANT!!!**
+<br>
+If you download this change the name of the folder keymaps to default for the .uf2 file to work.
