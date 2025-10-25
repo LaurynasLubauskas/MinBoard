@@ -30,3 +30,12 @@ I did a few things since my last journal 9 days ago. They weren't big changes so
 ![Screenshot 2025-10-14 at 21.20.12.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg4MywicHVyIjoiYmxvYl9pZCJ9fQ==--b3ba821f9ce8cd0b9023ddb7c7ce6a8465ad34b9/Screenshot%202025-10-14%20at%2021.20.12.png)
   
 
+## 10/26/2025 - Oct 25th 2025 Coding part finished!  
+
+Finally finished the coding part. If you check the repository it looks like I've done nothing, but the for 4 hours I've been working on fixing code so I could flash my MinBoard when I make it. That's it for now. I don't know when I will make the case design for the MinBoard. I got exams and and lots of schoolwork to do so I might even do it next week, or best case scenario I do a little tomorrow and finish it during the week when I am done with my exams and school work. Also I need to do the BOM, but I know the parts I will use so that won't be too hard. That's it for this journal and best case scenario see you next week.
+
+> The readme in the keyboard folder (added this picture, because it's mandatory)
+
+![Screenshot 2025-10-25 at 23.35.12](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--ff1eac82fd3a059fbb82ba947920554fb7781cff/Screenshot%202025-10-25%20at%2023.35.12.png)
+  
+
