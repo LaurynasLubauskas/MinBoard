@@ -39,3 +39,17 @@ Finally finished the coding part. If you check the repository it looks like I've
 ![Screenshot 2025-10-25 at 23.35.12](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--ff1eac82fd3a059fbb82ba947920554fb7781cff/Screenshot%202025-10-25%20at%2023.35.12.png)
   
 
+## 11/3/2025 - Nov 3rd 2025 The End.  
+
+This is it after about a month I finished this project. This project was fun to make and it had it's ups and downs. As I said that the last part to make was the 3d case. And I did it! It was quite easy and fun. Also I did the BOM the total price without shipping is 23.10€. I decided to switch the switches to the "Cherry MX Red Switches" I don't know when I will get the funding for this project, but I hope it's soon. I think I will do one last journal when I will build the MinBoard. This is my first _project_ and I enjoyed quite a lot. Thanks for following my journey.
+
+> JCL Order
+![JlcCart](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--bc567c9d84937c79894a3ee7948a3631bb1d508a/JlcCart.png)
+
+---
+
+> Pcb Details
+![PcbDetails](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3MywicHVyIjoiYmxvYl9pZCJ9fQ==--c178c34d09f021627ebc5affa1e306cf63057ade/PcbDetails.png)
+
+  
+
