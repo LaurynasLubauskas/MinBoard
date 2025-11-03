@@ -27,6 +27,11 @@ MinBoard contains 9 keys in total. My version of it uses the "Cherry MX Red" swi
 >3d Plate
 <img width="1710" height="945" alt="3dPlate" src="https://github.com/user-attachments/assets/a62c886b-23d7-4807-a1dd-d60e1c6d63b3" />
 
+## Contact Me
+If you have any questions don't hesitate to contact me via Email
+<br>
+Email: laurynas.lubauskas@gmail.com
+
 
 ## BOM
 
@@ -42,8 +47,3 @@ MinBoard contains 9 keys in total. My version of it uses the "Cherry MX Red" swi
 | 4            | M2 8mm Standoffs                    | 1.87€     | [Link](https://fr.aliexpress.com/item/1005007526941573.html?mp=1&pdp_npi=5@dis!EUR!EUR%202.01!EUR%201.87!!EUR%201.87!!!@211b655217621227696674886ed64a!12000041166342257!ct!LU!6001686758!!1!0&_gl=1*1ym2fc9*_gcl_au*MzUxMzgzNTMyLjE3NjIwMzE5Mjc.*_ga*NjMyNjk0MjQ1LjE3NjIwMzE5Mjc.*_ga_VED1YSGNC7*czE3NjIxMjIxNTkkbzUkZzEkdDE3NjIxMjMyNjMkajU5JGwwJGgw&gatewayAdapt=glo2fra) |
 | 4            | Rubber Feet                         | 3.10€     | [Link](https://fr.aliexpress.com/item/1005004068119765.html?mp=1&pdp_npi=5@dis!EUR!EUR%203.10!EUR%203.10!!EUR%203.10!!!@211b655217621227696674886ed64a!12000027931007348!ct!LU!6001686758!!1!0&_gl=1*av4qe7*_gcl_au*MzUxMzgzNTMyLjE3NjIwMzE5Mjc.*_ga*NjMyNjk0MjQ1LjE3NjIwMzE5Mjc.*_ga_VED1YSGNC7*czE3NjIxMjIxNTkkbzUkZzEkdDE3NjIxMjMyODUkajM3JGwwJGgw&gatewayAdapt=glo2fra)  |
 | N/A          | Total Price (not including shipping)| 23.10€    | N/A                                                                                                                                                                                                                                                                                                                                                                          |
-
-## Contact Me
-If you have any questions don't hesitate to contact me via Email
-<br>
-Email: laurynas.lubauskas@gmail.com
