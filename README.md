@@ -19,7 +19,8 @@ MinBoard contains 9 keys in total. My version of it uses the "Cherry MX Red" swi
 ---
 
 >3d Case
-<img width="1710" height="945" alt="3Dcase" src="https://github.com/user-attachments/assets/15dffe6c-3800-4cc8-9beb-b5851a34a6a2" />
+<img width="1710" height="945" alt="3Dcase" src="https://github.com/user-attachments/assets/83e52e9d-1508-48ba-bdb9-5b2847fb78e2" />
+
 
 ---
 
