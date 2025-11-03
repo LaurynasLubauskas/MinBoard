@@ -74,7 +74,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "gerber")
+			(outputdirectory "../gerber/")
 		)
 	)
 	(net 0 "")
@@ -4730,13 +4730,13 @@
 		(embedded_fonts no)
 		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_MCU.3dshapes/Seeed_XIAO_RP2040.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 2)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -5812,9 +5812,53 @@
 			)
 		)
 	)
+	(gr_circle
+		(center 76.17929 59.47929)
+		(end 77.64957 60.94957)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "11470850-dedc-46a9-bb51-16fa38bda6cf")
+	)
+	(gr_circle
+		(center 133.38225 59.47929)
+		(end 134.85253 60.94957)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "2acf6c13-445e-4fa2-9dfa-c73a43b16391")
+	)
+	(gr_circle
+		(center 133.38225 116.7)
+		(end 134.85253 118.17028)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "30051b4b-e053-4f66-8a64-01bfd67dbd1d")
+	)
+	(gr_circle
+		(center 76.2 116.7)
+		(end 77.67028 118.17028)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "5a35e086-95ca-42ca-afe5-745ae1eeefcd")
+	)
 	(gr_rect
 		(start 73.81875 57.15)
-		(end 135.0645 119.0625)
+		(end 135.7645 119.0625)
 		(stroke
 			(width 0.05)
 			(type default)
