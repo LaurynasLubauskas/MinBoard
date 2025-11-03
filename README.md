@@ -5,7 +5,7 @@ Maintainer: Laurynas Lubauskas
 <br>
 MinBoard is a mini 3x3 keyboard that can *literally* fit in your pocket and is a way cheaper option than a streamdeck.
 ## About The Project
-This project was fun to make. It is my first "big" project. It had it's ups and downs, which I liked. I made this project for the [Blueprint](https://blueprint.hackclub.com) by HackClub project. In the future I might make another version of the MinBoard but that could happen in the distant future. This project has minimal codind required so if you are not familiar with coding don't worry. I think this would be a fun project for anyone who like diy or fiddeling with tech.
+I made this project, because I am love fiddeling with tech and I hope it will be fun to build. This project was fun to make. It is my first "big" project. It had it's ups and downs, which I liked. I made this project for the [Blueprint](https://blueprint.hackclub.com) by HackClub project. In the future I might make another version of the MinBoard but that could happen in the distant future. This project has minimal codind required so if you are not familiar with coding don't worry. I think this would be a fun project for anyone who like diy or fiddeling with tech.
 ## Components
 MinBoard contains 9 keys in total. My version of it uses the "Cherry MX Red" switches, but you can use your prefered switches. The whole keyboard is controlled by a "Seeed XIAO RP2040" microcontroller using qmk software. My version of this keyboard will use the transparent black keycaps, I think they are a great choice as they look minimalistic and have no stickers on so you have the freedom to change each button to your preference. As it is my first project I will use an easier type of diodes, the "1N4148 DO-35" because this will be my first time soldering anything.
 >The PCB
@@ -15,6 +15,17 @@ MinBoard contains 9 keys in total. My version of it uses the "Cherry MX Red" swi
 
 >The Schematics
 <img width="1538" height="932" alt="Schematics" src="https://github.com/user-attachments/assets/b2135ad7-366e-438b-9cac-73f07e8cae37" />
+
+---
+
+>3d Case
+<img width="1710" height="945" alt="3Dcase" src="https://github.com/user-attachments/assets/15dffe6c-3800-4cc8-9beb-b5851a34a6a2" />
+
+---
+
+>3d Plate
+<img width="1710" height="945" alt="3dPlate" src="https://github.com/user-attachments/assets/a62c886b-23d7-4807-a1dd-d60e1c6d63b3" />
+
 
 ## BOM
 
